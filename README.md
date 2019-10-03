@@ -1,6 +1,7 @@
 # BundleIDFetcherJava
 Fetch 512x App Icons using Apple's official API.
-*App must be on the AppStore for the icon to be downloaded else this will not work.*
+
+## *App must be on the AppStore for the icon to be downloaded else this will not work.*
 
 ## Features
 - Download any app-icon from their Bundle ID.
